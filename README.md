@@ -20,11 +20,12 @@ after installing the requirements
 
 Run the .py file
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+![issue tab](https://github.com/kruz26/kru-Gui-cal/blob/main/example.jpg)
   ##### **OR**
 Built With
 Python Programming Language
 GUI package
 Python Version
 3.6*
+
 
