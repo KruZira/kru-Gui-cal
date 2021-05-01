@@ -20,7 +20,7 @@ after installing the requirements
 
 Run the .py file
 
-[](https://github.com/kruz26/kru-Gui-cal/blob/main/example.jpg)
+[1](https://github.com/kruz26/kru-Gui-cal/blob/main/example.jpg)
   ##### ****
 Built With
 Python Programming Language
