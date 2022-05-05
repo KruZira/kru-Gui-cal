@@ -6,7 +6,7 @@
   - Clone the Repository on your Machine
   - Then run
 
-```
+```markdown
 sudo pip3 install turtle
 ```
 
