@@ -8,13 +8,10 @@
 
 ```markdown
 sudo pip3 install turtle
+python3 kru-Gui-cal.py
 ```
 
 Tested in kali & ubuntu
-
-after installing the requirements
-
-Run the kru-gui-cal.py file
 
 ![](https://github.com/kruz26/kru-Gui-cal/blob/main/example.jpg)
 
