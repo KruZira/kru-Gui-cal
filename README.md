@@ -21,8 +21,9 @@ Run the kru-gui-cal.py file
 ### **
 
 **Built With
-Python Gui Package 📦 
-Python Version
+Python Gui Package 📦**
+
+**Python Version
 3.8**
 
  
