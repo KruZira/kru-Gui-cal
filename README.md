@@ -17,12 +17,12 @@ after installing the requirements
 Run the kru-gui-cal.py file
 
 ![](https://github.com/kruz26/kru-Gui-cal/blob/main/example.jpg)
-  ##### ****
 
-Built With
-Python Programming Language
-GUI package
+### **
+
+**Built With
+Python Gui Package 📦 
 Python Version
-3.6*
+3.8**
 
  
