@@ -2,26 +2,23 @@
 ☺️ This is just a simple calculator i made using turtle 
 
 
-Project Title
+## How to run it
+  - Clone the Repository on your Machine
+  - Then run
 
-Python Calculator Using turtle
-Getting Started
-Clone the Repository on your Local Machine
+```
+sudo pip3 install turtle
+```
 
-Install pip3 and
-
-👌 use sudo pip3 install turtle
-
-it also works on kali linux
-
-tested in kali & ubuntu
+Tested in kali & ubuntu
 
 after installing the requirements
 
-Run the .py file
+Run the kru-gui-cal.py file
 
 ![](https://github.com/kruz26/kru-Gui-cal/blob/main/example.jpg)
   ##### ****
+
 Built With
 Python Programming Language
 GUI package
