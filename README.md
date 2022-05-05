@@ -8,7 +8,7 @@
   - Then run
 
 ```markdown
-sudo pip3 install turtle
+pip3 install turtle
 python3 kru-Gui-cal.py
 ```
 
