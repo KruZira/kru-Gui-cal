@@ -18,7 +18,7 @@ Run the kru-gui-cal.py file
 
 ![](https://github.com/kruz26/kru-Gui-cal/blob/main/example.jpg)
 
-### **
+### 
 
 **Built With
 Python Gui Package 📦**
