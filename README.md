@@ -27,4 +27,4 @@ Tested in kali & ubuntu
 
 **Python Gui Package 📦**
 
-Contact [Telegram](https://t.me/KruzTv1)
+Contact [Telegram](https://t.me/Wishfox)
